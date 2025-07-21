@@ -1,0 +1,5 @@
+step_id,step_description,matched_frame_caption,timestamp,frame_id,score,status
+1,"Navigate to https://wrangler.in and validate homepage load and readiness, reporting any popups.",im_caption,pos_msec,frame_idx,0.0,Skipped
+2,Click the Search icon on the Wrangler homepage and validate that the search bar appears and is ready for input.,im_caption,pos_msec,frame_idx,0.0,Skipped
+3,Enter 'Rainbow sweater' in the search bar and validate that relevant search results appear.,im_caption,pos_msec,frame_idx,0.0,Skipped
+4,Apply the 'Turtle Neck' filter in the Neck filter section and validate that the results update accordingly.,im_caption,pos_msec,frame_idx,0.0,Skipped

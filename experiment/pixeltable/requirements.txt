@@ -1,0 +1,7 @@
+#exp1
+pixeltable
+torch
+transformers
+sklearn
+#exp2
+opencv-python
