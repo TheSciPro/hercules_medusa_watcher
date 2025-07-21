@@ -7,5 +7,13 @@ scikit-learn
 opencv-python
 sentence-transformers
 azure-identity
+#main
+opencv-python
 azure-ai-projects
-
+transformers
+byaldi
+qwen2vl
+Pillow
+bs4
+openai 
+tqdm
