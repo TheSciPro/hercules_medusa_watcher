@@ -1,0 +1,248 @@
+[
+  {
+    "step_id": 1,
+    "step_type": "NORMAL",
+    "description": "**Navigate to the Wrangler homepage:**",
+    "plan": "**Navigate to the Wrangler homepage:**",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {}
+  },
+  {
+    "step_id": 2,
+    "step_type": "NORMAL",
+    "description": "in`.",
+    "plan": "in`.",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {}
+  },
+  {
+    "step_id": 3,
+    "step_type": "NORMAL",
+    "description": "g., no 404 errors, page elements are visible).",
+    "plan": "g., no 404 errors, page elements are visible).",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {
+      "ocr_output": "There is no text or UI elements visible in this frame."
+    }
+  },
+  {
+    "step_id": 4,
+    "step_type": "NORMAL",
+    "description": "g., close or dismiss them if they block interaction).",
+    "plan": "g., close or dismiss them if they block interaction).",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {}
+  },
+  {
+    "step_id": 5,
+    "step_type": "NORMAL",
+    "description": "**Validate homepage readiness:**",
+    "plan": "**Validate homepage readiness:**",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {}
+  },
+  {
+    "step_id": 6,
+    "step_type": "NORMAL",
+    "description": "g., buttons and links are clickable, no loading spinners are present).",
+    "plan": "g., buttons and links are clickable, no loading spinners are present).",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {
+      "ocr_output": "There is no text or UI elements visible in this frame."
+    }
+  },
+  {
+    "step_id": 7,
+    "step_type": "NORMAL",
+    "description": "**Click the Search icon:**",
+    "plan": "**Click the Search icon:**",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {}
+  },
+  {
+    "step_id": 8,
+    "step_type": "NORMAL",
+    "description": "",
+    "plan": "",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {}
+  },
+  {
+    "step_id": 9,
+    "step_type": "NORMAL",
+    "description": "g., cursor is active, no errors).",
+    "plan": "g., cursor is active, no errors).",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {
+      "ocr_output": "EIDIS NEW IN MEN WOMEN COLLECTIONS SALE FIT GUIDE BLOGS\n\nCaption: Navigation menu for an online store."
+    }
+  },
+  {
+    "step_id": 10,
+    "step_type": "NORMAL",
+    "description": "**Search for 'Rainbow sweater':**",
+    "plan": "**Search for 'Rainbow sweater':**",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {}
+  },
+  {
+    "step_id": 11,
+    "step_type": "NORMAL",
+    "description": "",
+    "plan": "",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {}
+  },
+  {
+    "step_id": 12,
+    "step_type": "NORMAL",
+    "description": "g., confirm the presence of \"Rainbow sweater\" in product titles or descriptions).",
+    "plan": "g., confirm the presence of \"Rainbow sweater\" in product titles or descriptions).",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {
+      "ocr_output": "ROBES\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnd of season\nSALE\nBUY 1\nGET 1 FREE\nSHOP NOW\n\n*T&C APPLY\n\nCaption: Wrangler's End of Season Sale banner with a \"Buy 1 Get 1 Free\" offer."
+    }
+  },
+  {
+    "step_id": 13,
+    "step_type": "NORMAL",
+    "description": "**Apply the 'Turtle Neck' filter:**",
+    "plan": "**Apply the 'Turtle Neck' filter:**",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {}
+  },
+  {
+    "step_id": 14,
+    "step_type": "NORMAL",
+    "description": "",
+    "plan": "",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {}
+  },
+  {
+    "step_id": 15,
+    "step_type": "NORMAL",
+    "description": "g., confirm that all displayed items match the 'Turtle Neck' criteria).",
+    "plan": "g., confirm that all displayed items match the 'Turtle Neck' criteria).",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {
+      "ocr_output": "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nEnd of season\nSALE\nBUY\n1\nFREE\nSHOP NOW\n* T&C APPLY\nYou are acting as a strict OCR engine. Read and transcribe **all visible text and UI elements** exactly as they appear in this frame. Do not infer or summarize. List each element you detect. At the end, give a one-line caption describing the purpose of the screen."
+    }
+  },
+  {
+    "step_id": 16,
+    "step_type": "NORMAL",
+    "description": "**Handle errors or unexpected behavior:**",
+    "plan": "**Handle errors or unexpected behavior:**",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {}
+  },
+  {
+    "step_id": 17,
+    "step_type": "NORMAL",
+    "description": "g., search bar does not appear, filter application fails), log the error and attempt a retry or report the issue.",
+    "plan": "g., search bar does not appear, filter application fails), log the error and attempt a retry or report the issue.",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {}
+  },
+  {
+    "step_id": 18,
+    "step_type": "NORMAL",
+    "description": "",
+    "plan": "",
+    "next_step": "",
+    "is_assert": false,
+    "assert_summary": "",
+    "is_passed": false,
+    "terminate": false,
+    "final_response": "",
+    "execution_result": {
+      "ocr_output": "ROB\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nEnd of season\nSALE\nBUY\n1\nFREE\nSHOP NOW\n*T&C APPLY\nWrangler\nCaption: Wrangler's website features an end-of-season sale with a buy one, get one free offer."
+    }
+  }
+]

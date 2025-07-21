@@ -1,0 +1,144 @@
+[
+  {
+    "step_id": 1,
+    "description": "Navigate to https://wrangler.in and validate homepage load and readiness, reporting any popups.",
+    "status": "matched",
+    "confirmed_frames": [
+      {
+        "frame": "frame_15s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the sale banner and product images, indicating that the homepage has loaded and is ready for navigation."
+      },
+      {
+        "frame": "frame_18s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the sale banner and product images, indicating that the homepage has loaded and is ready for browsing."
+      },
+      {
+        "frame": "frame_21s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the text 'SPRING/SUMMER '25 HAS LANDED! CHASE THE SUN, OWN THE TRAIL.' and 'OUT NOW' which indicates that the homepage is loaded and ready."
+      },
+      {
+        "frame": "frame_24s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the text 'SPRING/SUMMER '25 HAS LANDED! CHASE THE SUN, OWN THE TRAIL.' and 'OUT NOW' which indicates that the homepage is loaded and ready."
+      },
+      {
+        "frame": "frame_27s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the text 'SPRING/SUMMER '25 HAS LANDED! CHASE THE SUN, OWN THE TRAIL.' and 'OUT NOW' which indicates that the homepage is loaded and ready."
+      },
+      {
+        "frame": "frame_33s.jpg",
+        "reason": "The image shows the Wrangler homepage with the Hot Wheels collaboration, indicating that the homepage has loaded and is ready for navigation."
+      },
+      {
+        "frame": "frame_36s.jpg",
+        "reason": "The image shows the Wrangler homepage with the text 'THE PREMIUM COLLECTION BY WRANGLER' and 'Superior quality | Unmatched craftsmanship', indicating that the homepage has loaded and is ready for navigation."
+      },
+      {
+        "frame": "frame_39s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the text 'THE PREMIUM COLLECTION BY WRANGLER' and 'It doesn't feel any better than this.' which confirms that the homepage has loaded and is ready."
+      },
+      {
+        "frame": "frame_42s.jpg",
+        "reason": "The image shows the Wrangler homepage with the text 'THE PREMIUM COLLECTION BY WRANGLER' and 'It doesn't feel any better than this.' which confirms that the homepage has loaded and is ready."
+      },
+      {
+        "frame": "frame_45s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the banner and product images, indicating that the homepage has loaded and is ready for navigation."
+      },
+      {
+        "frame": "frame_48s.jpg",
+        "reason": "The image shows the Wrangler homepage with the collection banner and product images, indicating that the homepage has loaded and is ready for navigation."
+      },
+      {
+        "frame": "frame_51s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the banner and the collection advertisement, indicating that the homepage has loaded and is ready for navigation."
+      },
+      {
+        "frame": "frame_54s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the sale banner and product images, indicating that the homepage has loaded and is ready for navigation."
+      },
+      {
+        "frame": "frame_63s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the text 'CHASE THE SUN, OWN THE TRAIL.' and the 'OUT NOW' button, indicating that the homepage is loaded and ready."
+      },
+      {
+        "frame": "frame_66s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the text 'CHASE THE SUN, OWN THE TRAIL.' and 'OUT NOW' which indicates that the homepage is loaded and ready."
+      },
+      {
+        "frame": "frame_69s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the text 'CHASE THE SUN, OWN THE TRAIL.' and 'OUT NOW' which indicates that the homepage is loaded and ready."
+      },
+      {
+        "frame": "frame_72s.jpg",
+        "reason": "The image shows the Wrangler homepage with the URL https://wrangler.in visible in the browser address bar."
+      },
+      {
+        "frame": "frame_75s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the URL https://wrangler.in visible in the browser address bar."
+      },
+      {
+        "frame": "frame_78s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the URL https://wrangler.in visible in the browser address bar."
+      },
+      {
+        "frame": "frame_81s.jpg",
+        "reason": "The image clearly shows the Wrangler homepage with the text 'It doesn't feel any better than this.' and the tagline 'Superior quality | Unmatched craftsmanship.'"
+      },
+      {
+        "frame": "frame_84s.jpg",
+        "reason": "The image shows the Wrangler homepage with the text 'It doesn't feel any better than this.' and 'Superior quality | Unmatched craftsmanship', indicating that the homepage has loaded and is ready for further interaction."
+      }
+    ]
+  },
+  {
+    "step_id": 2,
+    "description": "Click the Search icon on the Wrangler homepage and validate that the search bar appears and is ready for input.",
+    "status": "unverified",
+    "confirmed_frames": []
+  },
+  {
+    "step_id": 3,
+    "description": "Enter 'Rainbow sweater' in the search bar and validate that relevant search results appear.",
+    "status": "matched",
+    "confirmed_frames": [
+      {
+        "frame": "frame_102s.jpg",
+        "reason": "The search results for 'Rainbow sweater' are displayed on the screen."
+      },
+      {
+        "frame": "frame_105s.jpg",
+        "reason": "The search results for 'Rainbow sweater' are displayed on the page."
+      },
+      {
+        "frame": "frame_108s.jpg",
+        "reason": "The search results for 'Rainbow sweater' are displayed on the screen."
+      },
+      {
+        "frame": "frame_84s.jpg",
+        "reason": "The search term 'Rainbow sweater' is visible in the image."
+      },
+      {
+        "frame": "frame_87s.jpg",
+        "reason": "The search results for 'Rainbow sweater' are displayed on the screen."
+      },
+      {
+        "frame": "frame_90s.jpg",
+        "reason": "The search results for 'Rainbow sweater' are displayed on the screen."
+      },
+      {
+        "frame": "frame_93s.jpg",
+        "reason": "The search results for 'Rainbow sweater' are displayed on the screen."
+      },
+      {
+        "frame": "frame_96s.jpg",
+        "reason": "The search results for 'Rainbow sweater' are displayed on the screen."
+      }
+    ]
+  },
+  {
+    "step_id": 4,
+    "description": "Apply the 'Turtle Neck' filter in the Neck filter section and validate that the results update accordingly.",
+    "status": "unverified",
+    "confirmed_frames": []
+  }
+]

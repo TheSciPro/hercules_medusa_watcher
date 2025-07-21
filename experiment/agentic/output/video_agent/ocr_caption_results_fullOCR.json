@@ -1,0 +1,32 @@
+[
+  {
+    "frame": "frame_12s.jpg",
+    "step_id": 12,
+    "ocr_output": "ROBES\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnd of season\nSALE\nBUY 1\nGET 1 FREE\nSHOP NOW\n\n*T&C APPLY\n\nCaption: Wrangler's End of Season Sale banner with a \"Buy 1 Get 1 Free\" offer."
+  },
+  {
+    "frame": "frame_15s.jpg",
+    "step_id": 15,
+    "ocr_output": "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nEnd of season\nSALE\nBUY\n1\nFREE\nSHOP NOW\n* T&C APPLY\nYou are acting as a strict OCR engine. Read and transcribe **all visible text and UI elements** exactly as they appear in this frame. Do not infer or summarize. List each element you detect. At the end, give a one-line caption describing the purpose of the screen."
+  },
+  {
+    "frame": "frame_18s.jpg",
+    "step_id": 18,
+    "ocr_output": "ROB\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nEnd of season\nSALE\nBUY\n1\nFREE\nSHOP NOW\n*T&C APPLY\nWrangler\nCaption: Wrangler's website features an end-of-season sale with a buy one, get one free offer."
+  },
+  {
+    "frame": "frame_3s.jpg",
+    "step_id": 3,
+    "ocr_output": "There is no text or UI elements visible in this frame."
+  },
+  {
+    "frame": "frame_6s.jpg",
+    "step_id": 6,
+    "ocr_output": "There is no text or UI elements visible in this frame."
+  },
+  {
+    "frame": "frame_9s.jpg",
+    "step_id": 9,
+    "ocr_output": "EIDIS NEW IN MEN WOMEN COLLECTIONS SALE FIT GUIDE BLOGS\n\nCaption: Navigation menu for an online store."
+  }
+]
