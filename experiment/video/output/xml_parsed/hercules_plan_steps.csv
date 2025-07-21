@@ -1,0 +1,11 @@
+step_id,description
+1,Navigate to the Wrangler website at https://wrangler.in.
+2,Validate that the homepage loads successfully and is ready for interaction.
+3,Locate and click on the Search icon to activate the search bar.
+4,Validate that the search bar is visible and ready for input.
+5,Enter the text 'Rainbow sweater' into the search bar.
+6,Validate that the search results are updated based on the entered text.
+7,Locate the Neck filter section and select the 'Turtle Neck' filter.
+8,Validate that the filter is applied and the results are updated accordingly.
+9,"Assert that only one product is displayed as the result, regardless of the product type."
+10,Final assertion: Confirm that the displayed product(s) match the search and filter criteria.

@@ -1,0 +1,387 @@
+[
+  {
+    "step_id": 1,
+    "step_no": 1,
+    "description": "Navigate to https://wrangler.in and validate homepage load and readiness, reporting any popups.",
+    "status": "matched",
+    "matched_frames": [
+      "frame_15s.jpg",
+      "frame_18s.jpg",
+      "frame_21s.jpg",
+      "frame_24s.jpg",
+      "frame_27s.jpg",
+      "frame_33s.jpg",
+      "frame_36s.jpg",
+      "frame_39s.jpg",
+      "frame_42s.jpg",
+      "frame_45s.jpg",
+      "frame_48s.jpg",
+      "frame_51s.jpg",
+      "frame_54s.jpg",
+      "frame_63s.jpg",
+      "frame_66s.jpg",
+      "frame_69s.jpg",
+      "frame_72s.jpg",
+      "frame_75s.jpg",
+      "frame_78s.jpg",
+      "frame_81s.jpg",
+      "frame_84s.jpg",
+      "frame_87s.jpg",
+      "frame_90s.jpg"
+    ],
+    "matched_descriptions": [
+      "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nEnd of season\nSALE\nBUY\n1\nFREE\nSHOP NOW\n* T&C APPLY\nYou are acting as a strict OCR engine. Read and transcribe **all visible text and UI elements** exactly as they appear in this frame. Do not infer or summarize. List each element you detect. At the end, give a one-line caption describing the purpose of the screen.",
+      "ROB\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nEnd of season\nSALE\nBUY\n1\nFREE\nSHOP NOW\n*T&C APPLY\nWrangler\nCaption: Wrangler's website features an end-of-season sale with a buy one, get one free offer.",
+      "ROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR SIZES ON ALL NEW & SELECT VINTAGE. *See Code: VINTAGE\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR SIZES ON ALL NEW & SELECT VINTAGE. *See Code: VINTAGE\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR SIZES ON ALL NEW & SELECT VINTAGE. *See Code: VINTAGE\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nROCK\nNEW",
+      "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR Signs Up Now and Over $100 OFF** with Code NEW12\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR Signs Up Now and Over $100 OFF** with Code NEW12\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR Signs Up Now and Over $100 OFF** with Code NEW12\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nROB\nNEW IN\nMEN\nW",
+      "ROBES\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR SIZES ON ALL NEW & SELECT CLOTHES with Code: NEW10\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nWrangler\n\nOUT NOW\n\nWrangler\n\nOUT NOW\n\nCaption: Wrangler's Spring/Summer '25 collection launch advertisement featuring models in vibrant clothing.",
+      "**Visible Text and UI Elements:**\n\n- Wrangler logo\n- \"NEW IN\"\n- \"MEN\"\n- \"WOMEN\"\n- \"COLLECTIONS\"\n- \"SALE\"\n- \"FIT GUIDE\"\n- \"BLOGS\"\n- \"Enjoy FREE SHIPPING & 30% OFF REGULAR Ranges Use Code: VDAY30\" (in small text at the top)\n- \"Hot Wheels\" logo\n- \"Wrangler\" logo\n- \"THE ULTIMATE DEFINITION OF HORSEPOWER\"\n- \"SHOP THE COLLECTION\"\n- \"\u00a92024 Mattel.\"\n\n**Caption:**\n\n\"Wrangler's Hot Wheels Collection: Shop the Ultimate Definition of Horsepower.\"",
+      "The image appears to be a screenshot of a website, specifically the homepage of Wrangler, a clothing brand. The text and UI elements detected are as follows:\n\n- \"THE PREMIUM COLLECTION BY WRANGLER.\"\n- \"It doesn't feel any better than this.\"\n- \"Superior quality | Unmatched craftsmanship\"\n- \"Wrangler PREMIUM\"\n- \"WRANGLER\"\n- \"NEW IN\"\n- \"MEN\"\n- \"WOMEN\"\n- \"COLLECTIONS\"\n- \"SALE\"\n- \"BLOG\"\n- \"SEARCH\"\n- \"CART\"\n- \"MY ACCOUNT\"\n- \"LOG IN\"\n- \"CREATE ACCOUNT\"\n- \"FREE SHIPPING ON ORDERS OVER $50\"\n- \"FREE RETURNS\"\n- \"FREE EXCHANGES\"\n- \"FREE SHIPPING ON ORDERS OVER $50\"\n- \"FREE RETURNS\"\n- \"FREE EXCHANGES\"\n- \"FREE SHIPPING ON ORDERS OVER $50\"\n- \"FREE RETURNS\"\n- \"FREE EXCHANGES\"\n- \"FREE SHIPPING ON ORDERS OVER $50\"\n- \"FREE RETURNS\"\n- \"FREE EXCHANGES\"\n- \"FREE SHIPPING ON ORDERS OVER $50\"\n- \"FREE RETURNS\"\n- \"FREE EXCHANGES",
+      "ROBES\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nTHE PREMIUM COLLECTION BY WRANGLER.\nIt doesn't feel any better than this.\n\nSuperior quality | Unmatched craftsmanship\n\nWrangler\nWrangler PREMIUM\n\nThe Premium Collection by Wrangler.",
+      "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nTHE PREMIUM COLLECTION BY WRANGLER.\nIt doesn't feel any better than this.\n\nSuperior quality | Unmatched craftsmanship\n\nWrangler\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWr",
+      "What shapes you, makes you.\nDiscover Wrangler x Smriti Mandhana Collection!\nExplore More\nWrangler\nROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nFREE SHIPPING & EASY RETURNS\nCode: NEW12\nWrangler x Smriti Mandhana Collection!",
+      "```markdown\n- WHAT SHAPES YOU, MAKES YOU.\n- Discover Wrangler x Smriti Mandhana Collection!\n- EXPLORE MORE\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n",
+      "ROCK\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nWHAT\nSHAPES\nYOU,\nMAKES\nYOU.\n\nDiscover\nWrangler x Smriti Mandhana\nCollection!\n\nEXPLORE MORE\n\nROCK\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nWHAT\nSHAPES\nYOU,\nMAKES\nYOU.\n\nDiscover\nWrangler x Smriti Mandhana\nCollection!\n\nEXPLORE MORE\n\nROCK\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nWHAT\nSHAPES\nYOU,\nMAKES\nYOU.\n\nDiscover\nWrangler x Smriti Mandhana\nCollection!\n\nEXPLORE MORE\n\nROCK\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nWHAT\nSHAPES\nYOU,\nMAKES\nYOU.\n\nDiscover\nWrangler x Smriti Mandhana\nCollection!\n\nEXPLORE MORE\n\nROCK\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOG",
+      "ROB\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnd of season\nSALE\nBUY 1\nGET 1 FREE\nSHOP NOW\n\n* T&C APPLY\n\nCaption: Wrangler's End of Season Sale with a Buy 1 Get 1 Free offer.",
+      "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nChase the sun, own the trail.\nOUT NOW\nVACATION\nYou are here.\nSearch\nCart\n0 items\n$0.00\nCaption: A screenshot of the Wrangler website homepage, featuring a banner with the slogan \"Chase the sun, own the trail\" and images of people wearing Wrangler clothing.",
+      "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nChase the sun, own the trail.\nOUT NOW\nVACATION\nYou are here.\nSearch\nCart\n0 items\n$0.00\nCaption: A screenshot of the Wrangler website, featuring a banner with the slogan \"Chase the sun, own the trail\" and images of people wearing Wrangler clothing.",
+      "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nChase the sun, own the trail.\nOUT NOW\nVACATION\nYou are here.\nSearch\nCart\n0 items\n$0.00\nCaption: A screenshot of the Wrangler website showcasing their latest collection and promotional message.",
+      "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nTHE ULTIMATE DEFINITION OF HORSEPOWER\nSHOP THE COLLECTION\n\u00a92024 Mattel.\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nW",
+      "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nX\nTHE ULTIMATE DEFINITION OF HORSEPOWER\nSHOP THE COLLECTION\n\u00a92024 Mattel.\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nX\nCaption: A screenshot of the Wrangler website showcasing their collection and featuring models in Wrangler apparel.",
+      "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nTHE ULTIMATE DEFINITION OF HORSEPOWER\nSHOP THE COLLECTION\n\u00a92024 Mattel.\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN",
+      "Start typing to search.\nIt doesn't feel any better than this.\nSuperior quality | Unmatched craftsmanship\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nWrangler\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS",
+      "ROBES\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nRainbow sweater\nWrangler Men Colorblock Slim Fit Sweater\nWrangler Men Solid Drop Y Sweater\n\nIt doesn't feel any better than this.\nSuperior quality | Unmatched craftsmanship\n\nCaption: Wrangler's homepage featuring various clothing items and promotional text.",
+      "ROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 10% REBATE when you sign up now and use code: VIEW10\n\nFILTERS\n\nCategory\nSEARCH RESULTS FOR: RAINBOW SWEATER 1 Items\n\nSize\nS M L XL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwedish\n\nPattern\nSolid\n\nPrice\n1000\n\nNeck\nRound Neck\n\nWRANGLER INDIA\n\nDiscover how the Wrangler denim heritage goes deep, right back to the working century, Inc., making jeans that are durable and comfortable enough for the wild west. It's a gene for us.\n\nTRENDING",
+      "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 20% REBATE when you sign up now and over $150 ORDER with Code VENICE\n\nSEARCH RESULTS FOR: RAINBOW SWEATER 3 items\n\nFILTERS\n\nCategory\nSearch\n\nSize\nS M L XL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwatch\n\nPattern\nSolid\n\nPrice\n1000\n2000\n\nWRANGLER INDIA\n\nSomeone knows that wrangler denim heritage goes deep, right back to the working century, Inc. making men that are durable and comfortable enough for the wild west is a given for us.\n\nTRENDING"
+    ],
+    "reasons": [
+      "The frame contains text and UI elements related to navigating to a website and validating the homepage.",
+      "Homepage loaded with sale promotion visible",
+      "Homepage elements and sale information are present, indicating a successful load.",
+      "Homepage elements and promotions are visible, indicating load and readiness.",
+      "Homepage loaded with Wrangler's Spring/Summer '25 collection launch advertisement and relevant sections visible.",
+      "Homepage elements and a specific caption confirm navigation and validation.",
+      "Homepage of Wrangler is confirmed with various UI elements present.",
+      "Homepage elements and text are visible, indicating load and readiness.",
+      "Homepage loaded with Wrangler Premium collection displayed",
+      "Homepage content matches expected Wrangler x Smriti Mandhana Collection page",
+      "The frame contains text related to Wrangler and a collection by Smriti Mandhana, indicating the homepage is loaded and ready.",
+      "Homepage elements and text are present, indicating load and readiness.",
+      "Homepage loaded with sale promotion visible",
+      "Homepage screenshot matches description of Wrangler website with expected elements like banner and product categories.",
+      "Homepage elements such as banner, search bar, cart, and categories are visible.",
+      "Homepage loaded and appears ready with collection and promotional message displayed.",
+      "The frame displays a webpage with various sections such as RODS, NEW IN, collections, sale, fit guide, blogs, indicating that the homepage of https://wrangler.in has loaded.",
+      "Homepage elements such as collections, sale, fit guide, blogs, and a copyright notice are present, indicating the homepage has loaded.",
+      "Homepage appears to be loaded with various sections visible.",
+      "Homepage elements such as SEARCH, BLOGS, SALE, FIT GUIDE, etc., are present, indicating the homepage is loaded.",
+      "Homepage of wrangler.in is displayed with products and promotional text, indicating load and readiness.",
+      "Homepage loaded with expected elements and no conflicting information found",
+      "Homepage elements and a product search result are visible, indicating load and readiness."
+    ],
+    "frame_refs": [
+      {
+        "step_no": 1,
+        "frame_no": "frame_15s.jpg",
+        "description": "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nEnd of season\nSALE\nBUY\n1\nFREE\nSHOP NOW\n* T&C APPLY\nYou are acting as a strict OCR engine. Read and transcribe **all visible text and UI elements** exactly as they appear in this frame. Do not infer or summarize. List each element you detect. At the end, give a one-line caption describing the purpose of the screen.",
+        "reason": "The frame contains text and UI elements related to navigating to a website and validating the homepage."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_18s.jpg",
+        "description": "ROB\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nEnd of season\nSALE\nBUY\n1\nFREE\nSHOP NOW\n*T&C APPLY\nWrangler\nCaption: Wrangler's website features an end-of-season sale with a buy one, get one free offer.",
+        "reason": "Homepage loaded with sale promotion visible"
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_21s.jpg",
+        "description": "ROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR SIZES ON ALL NEW & SELECT VINTAGE. *See Code: VINTAGE\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR SIZES ON ALL NEW & SELECT VINTAGE. *See Code: VINTAGE\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR SIZES ON ALL NEW & SELECT VINTAGE. *See Code: VINTAGE\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nROCK\nNEW",
+        "reason": "Homepage elements and sale information are present, indicating a successful load."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_24s.jpg",
+        "description": "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR Signs Up Now and Over $100 OFF** with Code NEW12\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR Signs Up Now and Over $100 OFF** with Code NEW12\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR Signs Up Now and Over $100 OFF** with Code NEW12\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nROB\nNEW IN\nMEN\nW",
+        "reason": "Homepage elements and promotions are visible, indicating load and readiness."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_27s.jpg",
+        "description": "ROBES\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 30% OFF REGULAR SIZES ON ALL NEW & SELECT CLOTHES with Code: NEW10\n\nWrangler\n\nSPRING/SUMMER '25 HAS LANDED!\n\nCHASE THE SUN, OWN THE TRAIL.\n\nOUT NOW\n\nWrangler\n\nOUT NOW\n\nWrangler\n\nOUT NOW\n\nCaption: Wrangler's Spring/Summer '25 collection launch advertisement featuring models in vibrant clothing.",
+        "reason": "Homepage loaded with Wrangler's Spring/Summer '25 collection launch advertisement and relevant sections visible."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_33s.jpg",
+        "description": "**Visible Text and UI Elements:**\n\n- Wrangler logo\n- \"NEW IN\"\n- \"MEN\"\n- \"WOMEN\"\n- \"COLLECTIONS\"\n- \"SALE\"\n- \"FIT GUIDE\"\n- \"BLOGS\"\n- \"Enjoy FREE SHIPPING & 30% OFF REGULAR Ranges Use Code: VDAY30\" (in small text at the top)\n- \"Hot Wheels\" logo\n- \"Wrangler\" logo\n- \"THE ULTIMATE DEFINITION OF HORSEPOWER\"\n- \"SHOP THE COLLECTION\"\n- \"\u00a92024 Mattel.\"\n\n**Caption:**\n\n\"Wrangler's Hot Wheels Collection: Shop the Ultimate Definition of Horsepower.\"",
+        "reason": "Homepage elements and a specific caption confirm navigation and validation."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_36s.jpg",
+        "description": "The image appears to be a screenshot of a website, specifically the homepage of Wrangler, a clothing brand. The text and UI elements detected are as follows:\n\n- \"THE PREMIUM COLLECTION BY WRANGLER.\"\n- \"It doesn't feel any better than this.\"\n- \"Superior quality | Unmatched craftsmanship\"\n- \"Wrangler PREMIUM\"\n- \"WRANGLER\"\n- \"NEW IN\"\n- \"MEN\"\n- \"WOMEN\"\n- \"COLLECTIONS\"\n- \"SALE\"\n- \"BLOG\"\n- \"SEARCH\"\n- \"CART\"\n- \"MY ACCOUNT\"\n- \"LOG IN\"\n- \"CREATE ACCOUNT\"\n- \"FREE SHIPPING ON ORDERS OVER $50\"\n- \"FREE RETURNS\"\n- \"FREE EXCHANGES\"\n- \"FREE SHIPPING ON ORDERS OVER $50\"\n- \"FREE RETURNS\"\n- \"FREE EXCHANGES\"\n- \"FREE SHIPPING ON ORDERS OVER $50\"\n- \"FREE RETURNS\"\n- \"FREE EXCHANGES\"\n- \"FREE SHIPPING ON ORDERS OVER $50\"\n- \"FREE RETURNS\"\n- \"FREE EXCHANGES\"\n- \"FREE SHIPPING ON ORDERS OVER $50\"\n- \"FREE RETURNS\"\n- \"FREE EXCHANGES",
+        "reason": "Homepage of Wrangler is confirmed with various UI elements present."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_39s.jpg",
+        "description": "ROBES\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nTHE PREMIUM COLLECTION BY WRANGLER.\nIt doesn't feel any better than this.\n\nSuperior quality | Unmatched craftsmanship\n\nWrangler\nWrangler PREMIUM\n\nThe Premium Collection by Wrangler.",
+        "reason": "Homepage elements and text are visible, indicating load and readiness."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_42s.jpg",
+        "description": "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nTHE PREMIUM COLLECTION BY WRANGLER.\nIt doesn't feel any better than this.\n\nSuperior quality | Unmatched craftsmanship\n\nWrangler\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWrangler\n\nPremium\n\nWr",
+        "reason": "Homepage loaded with Wrangler Premium collection displayed"
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_45s.jpg",
+        "description": "What shapes you, makes you.\nDiscover Wrangler x Smriti Mandhana Collection!\nExplore More\nWrangler\nROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nFREE SHIPPING & EASY RETURNS\nCode: NEW12\nWrangler x Smriti Mandhana Collection!",
+        "reason": "Homepage content matches expected Wrangler x Smriti Mandhana Collection page"
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_48s.jpg",
+        "description": "```markdown\n- WHAT SHAPES YOU, MAKES YOU.\n- Discover Wrangler x Smriti Mandhana Collection!\n- EXPLORE MORE\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n- Wrangler\n",
+        "reason": "The frame contains text related to Wrangler and a collection by Smriti Mandhana, indicating the homepage is loaded and ready."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_51s.jpg",
+        "description": "ROCK\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nWHAT\nSHAPES\nYOU,\nMAKES\nYOU.\n\nDiscover\nWrangler x Smriti Mandhana\nCollection!\n\nEXPLORE MORE\n\nROCK\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nWHAT\nSHAPES\nYOU,\nMAKES\nYOU.\n\nDiscover\nWrangler x Smriti Mandhana\nCollection!\n\nEXPLORE MORE\n\nROCK\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nWHAT\nSHAPES\nYOU,\nMAKES\nYOU.\n\nDiscover\nWrangler x Smriti Mandhana\nCollection!\n\nEXPLORE MORE\n\nROCK\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nWHAT\nSHAPES\nYOU,\nMAKES\nYOU.\n\nDiscover\nWrangler x Smriti Mandhana\nCollection!\n\nEXPLORE MORE\n\nROCK\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOG",
+        "reason": "Homepage elements and text are present, indicating load and readiness."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_54s.jpg",
+        "description": "ROB\nNEW IN\nMAN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnd of season\nSALE\nBUY 1\nGET 1 FREE\nSHOP NOW\n\n* T&C APPLY\n\nCaption: Wrangler's End of Season Sale with a Buy 1 Get 1 Free offer.",
+        "reason": "Homepage loaded with sale promotion visible"
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_63s.jpg",
+        "description": "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nChase the sun, own the trail.\nOUT NOW\nVACATION\nYou are here.\nSearch\nCart\n0 items\n$0.00\nCaption: A screenshot of the Wrangler website homepage, featuring a banner with the slogan \"Chase the sun, own the trail\" and images of people wearing Wrangler clothing.",
+        "reason": "Homepage screenshot matches description of Wrangler website with expected elements like banner and product categories."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_66s.jpg",
+        "description": "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nChase the sun, own the trail.\nOUT NOW\nVACATION\nYou are here.\nSearch\nCart\n0 items\n$0.00\nCaption: A screenshot of the Wrangler website, featuring a banner with the slogan \"Chase the sun, own the trail\" and images of people wearing Wrangler clothing.",
+        "reason": "Homepage elements such as banner, search bar, cart, and categories are visible."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_69s.jpg",
+        "description": "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nChase the sun, own the trail.\nOUT NOW\nVACATION\nYou are here.\nSearch\nCart\n0 items\n$0.00\nCaption: A screenshot of the Wrangler website showcasing their latest collection and promotional message.",
+        "reason": "Homepage loaded and appears ready with collection and promotional message displayed."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_72s.jpg",
+        "description": "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nTHE ULTIMATE DEFINITION OF HORSEPOWER\nSHOP THE COLLECTION\n\u00a92024 Mattel.\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nW",
+        "reason": "The frame displays a webpage with various sections such as RODS, NEW IN, collections, sale, fit guide, blogs, indicating that the homepage of https://wrangler.in has loaded."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_75s.jpg",
+        "description": "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nX\nTHE ULTIMATE DEFINITION OF HORSEPOWER\nSHOP THE COLLECTION\n\u00a92024 Mattel.\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nX\nCaption: A screenshot of the Wrangler website showcasing their collection and featuring models in Wrangler apparel.",
+        "reason": "Homepage elements such as collections, sale, fit guide, blogs, and a copyright notice are present, indicating the homepage has loaded."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_78s.jpg",
+        "description": "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nTHE ULTIMATE DEFINITION OF HORSEPOWER\nSHOP THE COLLECTION\n\u00a92024 Mattel.\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN",
+        "reason": "Homepage appears to be loaded with various sections visible."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_81s.jpg",
+        "description": "Start typing to search.\nIt doesn't feel any better than this.\nSuperior quality | Unmatched craftsmanship\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nWrangler\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS",
+        "reason": "Homepage elements such as SEARCH, BLOGS, SALE, FIT GUIDE, etc., are present, indicating the homepage is loaded."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_84s.jpg",
+        "description": "ROBES\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nRainbow sweater\nWrangler Men Colorblock Slim Fit Sweater\nWrangler Men Solid Drop Y Sweater\n\nIt doesn't feel any better than this.\nSuperior quality | Unmatched craftsmanship\n\nCaption: Wrangler's homepage featuring various clothing items and promotional text.",
+        "reason": "Homepage of wrangler.in is displayed with products and promotional text, indicating load and readiness."
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_87s.jpg",
+        "description": "ROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 10% REBATE when you sign up now and use code: VIEW10\n\nFILTERS\n\nCategory\nSEARCH RESULTS FOR: RAINBOW SWEATER 1 Items\n\nSize\nS M L XL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwedish\n\nPattern\nSolid\n\nPrice\n1000\n\nNeck\nRound Neck\n\nWRANGLER INDIA\n\nDiscover how the Wrangler denim heritage goes deep, right back to the working century, Inc., making jeans that are durable and comfortable enough for the wild west. It's a gene for us.\n\nTRENDING",
+        "reason": "Homepage loaded with expected elements and no conflicting information found"
+      },
+      {
+        "step_no": 1,
+        "frame_no": "frame_90s.jpg",
+        "description": "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 20% REBATE when you sign up now and over $150 ORDER with Code VENICE\n\nSEARCH RESULTS FOR: RAINBOW SWEATER 3 items\n\nFILTERS\n\nCategory\nSearch\n\nSize\nS M L XL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwatch\n\nPattern\nSolid\n\nPrice\n1000\n2000\n\nWRANGLER INDIA\n\nSomeone knows that wrangler denim heritage goes deep, right back to the working century, Inc. making men that are durable and comfortable enough for the wild west is a given for us.\n\nTRENDING",
+        "reason": "Homepage elements and a product search result are visible, indicating load and readiness."
+      }
+    ]
+  },
+  {
+    "step_id": 2,
+    "step_no": 2,
+    "description": "Click the Search icon on the Wrangler homepage and validate that the search bar appears and is ready for input.",
+    "status": "matched",
+    "matched_frames": [
+      "frame_72s.jpg",
+      "frame_78s.jpg",
+      "frame_81s.jpg",
+      "frame_87s.jpg",
+      "frame_90s.jpg",
+      "frame_93s.jpg"
+    ],
+    "matched_descriptions": [
+      "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nTHE ULTIMATE DEFINITION OF HORSEPOWER\nSHOP THE COLLECTION\n\u00a92024 Mattel.\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nW",
+      "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nTHE ULTIMATE DEFINITION OF HORSEPOWER\nSHOP THE COLLECTION\n\u00a92024 Mattel.\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN",
+      "Start typing to search.\nIt doesn't feel any better than this.\nSuperior quality | Unmatched craftsmanship\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nWrangler\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS",
+      "ROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 10% REBATE when you sign up now and use code: VIEW10\n\nFILTERS\n\nCategory\nSEARCH RESULTS FOR: RAINBOW SWEATER 1 Items\n\nSize\nS M L XL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwedish\n\nPattern\nSolid\n\nPrice\n1000\n\nNeck\nRound Neck\n\nWRANGLER INDIA\n\nDiscover how the Wrangler denim heritage goes deep, right back to the working century, Inc., making jeans that are durable and comfortable enough for the wild west. It's a gene for us.\n\nTRENDING",
+      "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 20% REBATE when you sign up now and over $150 ORDER with Code VENICE\n\nSEARCH RESULTS FOR: RAINBOW SWEATER 3 items\n\nFILTERS\n\nCategory\nSearch\n\nSize\nS M L XL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwatch\n\nPattern\nSolid\n\nPrice\n1000\n2000\n\nWRANGLER INDIA\n\nSomeone knows that wrangler denim heritage goes deep, right back to the working century, Inc. making men that are durable and comfortable enough for the wild west is a given for us.\n\nTRENDING",
+      "ROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nSearch results for: Rainbow Sweater 1 item.\n\nFILTERS\n\nCategory\nSearch\n\nSize\nS\nM\nL\nXL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwatch\n\nPattern\nSolid\n\nPrice\n1000\n2000\n\nNeck\nRound Neck\n\nWRANGLER PIMA\nWrangler knows that Wrangler denim heritage goes deep, right back to the working century, Inc. making jeans that are durable and comfortable enough for the wild better is a given for us.\n\nTRENDING"
+    ],
+    "reasons": [
+      "Search bar is visible and text 'Start typing to search' indicates it is ready for input.",
+      "Search bar is visible and text suggests it is ready for input.",
+      "Search bar is visible and text 'SEARCH' is present, indicating readiness for input.",
+      "Search bar appears and is ready for input as per the step description.",
+      "Search bar appears and is ready for input as per the step description.",
+      "Search bar appears and is ready for input as per the step description."
+    ],
+    "frame_refs": [
+      {
+        "step_no": 2,
+        "frame_no": "frame_72s.jpg",
+        "description": "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nTHE ULTIMATE DEFINITION OF HORSEPOWER\nSHOP THE COLLECTION\n\u00a92024 Mattel.\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nWOMAN\nMAN\nW",
+        "reason": "Search bar is visible and text 'Start typing to search' indicates it is ready for input."
+      },
+      {
+        "step_no": 2,
+        "frame_no": "frame_78s.jpg",
+        "description": "Start typing to search.\nRODS\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nTHE ULTIMATE DEFINITION OF HORSEPOWER\nSHOP THE COLLECTION\n\u00a92024 Mattel.\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN\nWOMAN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\nMAN",
+        "reason": "Search bar is visible and text suggests it is ready for input."
+      },
+      {
+        "step_no": 2,
+        "frame_no": "frame_81s.jpg",
+        "description": "Start typing to search.\nIt doesn't feel any better than this.\nSuperior quality | Unmatched craftsmanship\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nWrangler\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS\nSEARCH\nBLOGS\nSALE\nFIT GUIDE\nCOLLECTIONS\nWOMEN\nMEN\nNEW IN\nRODS",
+        "reason": "Search bar is visible and text 'SEARCH' is present, indicating readiness for input."
+      },
+      {
+        "step_no": 2,
+        "frame_no": "frame_87s.jpg",
+        "description": "ROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 10% REBATE when you sign up now and use code: VIEW10\n\nFILTERS\n\nCategory\nSEARCH RESULTS FOR: RAINBOW SWEATER 1 Items\n\nSize\nS M L XL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwedish\n\nPattern\nSolid\n\nPrice\n1000\n\nNeck\nRound Neck\n\nWRANGLER INDIA\n\nDiscover how the Wrangler denim heritage goes deep, right back to the working century, Inc., making jeans that are durable and comfortable enough for the wild west. It's a gene for us.\n\nTRENDING",
+        "reason": "Search bar appears and is ready for input as per the step description."
+      },
+      {
+        "step_no": 2,
+        "frame_no": "frame_90s.jpg",
+        "description": "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 20% REBATE when you sign up now and over $150 ORDER with Code VENICE\n\nSEARCH RESULTS FOR: RAINBOW SWEATER 3 items\n\nFILTERS\n\nCategory\nSearch\n\nSize\nS M L XL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwatch\n\nPattern\nSolid\n\nPrice\n1000\n2000\n\nWRANGLER INDIA\n\nSomeone knows that wrangler denim heritage goes deep, right back to the working century, Inc. making men that are durable and comfortable enough for the wild west is a given for us.\n\nTRENDING",
+        "reason": "Search bar appears and is ready for input as per the step description."
+      },
+      {
+        "step_no": 2,
+        "frame_no": "frame_93s.jpg",
+        "description": "ROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nSearch results for: Rainbow Sweater 1 item.\n\nFILTERS\n\nCategory\nSearch\n\nSize\nS\nM\nL\nXL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwatch\n\nPattern\nSolid\n\nPrice\n1000\n2000\n\nNeck\nRound Neck\n\nWRANGLER PIMA\nWrangler knows that Wrangler denim heritage goes deep, right back to the working century, Inc. making jeans that are durable and comfortable enough for the wild better is a given for us.\n\nTRENDING",
+        "reason": "Search bar appears and is ready for input as per the step description."
+      }
+    ]
+  },
+  {
+    "step_id": 3,
+    "step_no": 3,
+    "description": "Enter 'Rainbow sweater' in the search bar and validate that relevant search results appear.",
+    "status": "matched",
+    "matched_frames": [
+      "frame_102s.jpg",
+      "frame_105s.jpg",
+      "frame_108s.jpg",
+      "frame_84s.jpg",
+      "frame_87s.jpg",
+      "frame_90s.jpg",
+      "frame_93s.jpg",
+      "frame_96s.jpg"
+    ],
+    "matched_descriptions": [
+      "SEARCH RESULTS FOR: RAINBOW SWEATER 2 items.\n\nFILTERS\n\nCategory\n- Rainbow Sweater\n\nSize\n- S\n- M\n- L\n- XL\n\nFit\n- Regular\n\nDiscover\n- 40% and more\n\nSleeve\n- Full Sleeve\n\nColor\n- Rainbow\n\nPattern\n- Solid\n\nPrice\n- $1000\n- $2000\n\nNeck\n- Crew Neck\n\nWRANGLER PIDA\n\nDiscover how the wrangler denim heritage goes deep, right back to the working century, Inc. making jeans that are durable and comfortable enough for the wild west. It's a given.\n\nTRENDING",
+      "SEARCH RESULTS FOR: RAINBOW SWEATER 3 items\nFILTERS\nCategory\nSEARCH\nSize\nS M L XL\nFit\nRegular\nDiscover\n40% and more\nSleeve\nFull Sleeve\nColor\nRainbow\nBlue\nGray\nPattern\nSolid\nPrice\n1000\n2000\nWRANGLER INDIA\nDiscover how the wrangler denim heritage goes deep, right back to the working century, Inc. making men that are durable and comfortable enough for the wild western. A game for us.\nTRENDING",
+      "SEARCH RESULTS FOR: RAINBOW SWEATER 3 items\nFILTERS\nCategory\nSEARCH\nSize\nS M L XL\nFit\nRegular\nDiscover\n40% and more\nSleeve\nFull Sleeve\nColor\nRainbow\nBlue\nGray\nPattern\nSolid\nPrice\n1000\n2000\nWRANGLER INDIA\nDiscover how the wrangler denim heritage goes deep, right back to the working century, Inc. making jeans that are durable and comfortable enough for the wild frontier is a given for us.\nTRENDING",
+      "ROBES\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nRainbow sweater\nWrangler Men Colorblock Slim Fit Sweater\nWrangler Men Solid Drop Y Sweater\n\nIt doesn't feel any better than this.\nSuperior quality | Unmatched craftsmanship\n\nCaption: Wrangler's homepage featuring various clothing items and promotional text.",
+      "ROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 10% REBATE when you sign up now and use code: VIEW10\n\nFILTERS\n\nCategory\nSEARCH RESULTS FOR: RAINBOW SWEATER 1 Items\n\nSize\nS M L XL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwedish\n\nPattern\nSolid\n\nPrice\n1000\n\nNeck\nRound Neck\n\nWRANGLER INDIA\n\nDiscover how the Wrangler denim heritage goes deep, right back to the working century, Inc., making jeans that are durable and comfortable enough for the wild west. It's a gene for us.\n\nTRENDING",
+      "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 20% REBATE when you sign up now and over $150 ORDER with Code VENICE\n\nSEARCH RESULTS FOR: RAINBOW SWEATER 3 items\n\nFILTERS\n\nCategory\nSearch\n\nSize\nS M L XL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwatch\n\nPattern\nSolid\n\nPrice\n1000\n2000\n\nWRANGLER INDIA\n\nSomeone knows that wrangler denim heritage goes deep, right back to the working century, Inc. making men that are durable and comfortable enough for the wild west is a given for us.\n\nTRENDING",
+      "ROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nSearch results for: Rainbow Sweater 1 item.\n\nFILTERS\n\nCategory\nSearch\n\nSize\nS\nM\nL\nXL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwatch\n\nPattern\nSolid\n\nPrice\n1000\n2000\n\nNeck\nRound Neck\n\nWRANGLER PIMA\nWrangler knows that Wrangler denim heritage goes deep, right back to the working century, Inc. making jeans that are durable and comfortable enough for the wild better is a given for us.\n\nTRENDING",
+      "SEARCH RESULTS FOR: RAINBOW SWEATER 1 Item.\n\nFILTERS\n\nCategory\n- Rainbow\n\nSize\n- S\n- M\n- L\n- XL\n\nFit\n- Regular\n\nDiscover\n- 40% and more\n\nSleeve\n- Full Sleeve\n\nColor\n- Rainbow\n\nPattern\n- Solid\n\nPrice\n- $1000\n- $2000\n\nNeck\n- Crew Neck\n\nWRANGLER PIDA\n\nDiscover how that wrangler denim heritage goes deep, right back to the working cowboy, Inc. making jeans that are durable and comfortable enough for the wild west is a game for us.\n\nTRENDING"
+    ],
+    "reasons": [
+      "Search results for 'Rainbow sweater' are displayed with various filters and details.",
+      "Search results for 'Rainbow sweater' are displayed with relevant filters and items.",
+      "Search results for 'Rainbow sweater' are displayed with relevant filters and items.",
+      "The frame shows a search result for 'Rainbow sweater', confirming the step has been completed.",
+      "Search term 'RAINBOW SWEATER' is present in the frame and there are search results displayed.",
+      "Search results for 'Rainbow sweater' are displayed with 3 items.",
+      "Search results for 'Rainbow Sweater' are displayed with details such as category, size, fit, color, pattern, price, and neck style.",
+      "Search results for 'Rainbow sweater' are displayed with various filters and details."
+    ],
+    "frame_refs": [
+      {
+        "step_no": 3,
+        "frame_no": "frame_102s.jpg",
+        "description": "SEARCH RESULTS FOR: RAINBOW SWEATER 2 items.\n\nFILTERS\n\nCategory\n- Rainbow Sweater\n\nSize\n- S\n- M\n- L\n- XL\n\nFit\n- Regular\n\nDiscover\n- 40% and more\n\nSleeve\n- Full Sleeve\n\nColor\n- Rainbow\n\nPattern\n- Solid\n\nPrice\n- $1000\n- $2000\n\nNeck\n- Crew Neck\n\nWRANGLER PIDA\n\nDiscover how the wrangler denim heritage goes deep, right back to the working century, Inc. making jeans that are durable and comfortable enough for the wild west. It's a given.\n\nTRENDING",
+        "reason": "Search results for 'Rainbow sweater' are displayed with various filters and details."
+      },
+      {
+        "step_no": 3,
+        "frame_no": "frame_105s.jpg",
+        "description": "SEARCH RESULTS FOR: RAINBOW SWEATER 3 items\nFILTERS\nCategory\nSEARCH\nSize\nS M L XL\nFit\nRegular\nDiscover\n40% and more\nSleeve\nFull Sleeve\nColor\nRainbow\nBlue\nGray\nPattern\nSolid\nPrice\n1000\n2000\nWRANGLER INDIA\nDiscover how the wrangler denim heritage goes deep, right back to the working century, Inc. making men that are durable and comfortable enough for the wild western. A game for us.\nTRENDING",
+        "reason": "Search results for 'Rainbow sweater' are displayed with relevant filters and items."
+      },
+      {
+        "step_no": 3,
+        "frame_no": "frame_108s.jpg",
+        "description": "SEARCH RESULTS FOR: RAINBOW SWEATER 3 items\nFILTERS\nCategory\nSEARCH\nSize\nS M L XL\nFit\nRegular\nDiscover\n40% and more\nSleeve\nFull Sleeve\nColor\nRainbow\nBlue\nGray\nPattern\nSolid\nPrice\n1000\n2000\nWRANGLER INDIA\nDiscover how the wrangler denim heritage goes deep, right back to the working century, Inc. making jeans that are durable and comfortable enough for the wild frontier is a given for us.\nTRENDING",
+        "reason": "Search results for 'Rainbow sweater' are displayed with relevant filters and items."
+      },
+      {
+        "step_no": 3,
+        "frame_no": "frame_84s.jpg",
+        "description": "ROBES\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nRainbow sweater\nWrangler Men Colorblock Slim Fit Sweater\nWrangler Men Solid Drop Y Sweater\n\nIt doesn't feel any better than this.\nSuperior quality | Unmatched craftsmanship\n\nCaption: Wrangler's homepage featuring various clothing items and promotional text.",
+        "reason": "The frame shows a search result for 'Rainbow sweater', confirming the step has been completed."
+      },
+      {
+        "step_no": 3,
+        "frame_no": "frame_87s.jpg",
+        "description": "ROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 10% REBATE when you sign up now and use code: VIEW10\n\nFILTERS\n\nCategory\nSEARCH RESULTS FOR: RAINBOW SWEATER 1 Items\n\nSize\nS M L XL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwedish\n\nPattern\nSolid\n\nPrice\n1000\n\nNeck\nRound Neck\n\nWRANGLER INDIA\n\nDiscover how the Wrangler denim heritage goes deep, right back to the working century, Inc., making jeans that are durable and comfortable enough for the wild west. It's a gene for us.\n\nTRENDING",
+        "reason": "Search term 'RAINBOW SWEATER' is present in the frame and there are search results displayed."
+      },
+      {
+        "step_no": 3,
+        "frame_no": "frame_90s.jpg",
+        "description": "ROB\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nEnjoy FREE SHIPPING & 20% REBATE when you sign up now and over $150 ORDER with Code VENICE\n\nSEARCH RESULTS FOR: RAINBOW SWEATER 3 items\n\nFILTERS\n\nCategory\nSearch\n\nSize\nS M L XL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwatch\n\nPattern\nSolid\n\nPrice\n1000\n2000\n\nWRANGLER INDIA\n\nSomeone knows that wrangler denim heritage goes deep, right back to the working century, Inc. making men that are durable and comfortable enough for the wild west is a given for us.\n\nTRENDING",
+        "reason": "Search results for 'Rainbow sweater' are displayed with 3 items."
+      },
+      {
+        "step_no": 3,
+        "frame_no": "frame_93s.jpg",
+        "description": "ROCK\nNEW IN\nMEN\nWOMEN\nCOLLECTIONS\nSALE\nFIT GUIDE\nBLOGS\n\nSearch results for: Rainbow Sweater 1 item.\n\nFILTERS\n\nCategory\nSearch\n\nSize\nS\nM\nL\nXL\n\nFit\nRegular\n\nDiscover\n40% and more\n\nSleeve\nFull Sleeve\n\nColor\nSwatch\n\nPattern\nSolid\n\nPrice\n1000\n2000\n\nNeck\nRound Neck\n\nWRANGLER PIMA\nWrangler knows that Wrangler denim heritage goes deep, right back to the working century, Inc. making jeans that are durable and comfortable enough for the wild better is a given for us.\n\nTRENDING",
+        "reason": "Search results for 'Rainbow Sweater' are displayed with details such as category, size, fit, color, pattern, price, and neck style."
+      },
+      {
+        "step_no": 3,
+        "frame_no": "frame_96s.jpg",
+        "description": "SEARCH RESULTS FOR: RAINBOW SWEATER 1 Item.\n\nFILTERS\n\nCategory\n- Rainbow\n\nSize\n- S\n- M\n- L\n- XL\n\nFit\n- Regular\n\nDiscover\n- 40% and more\n\nSleeve\n- Full Sleeve\n\nColor\n- Rainbow\n\nPattern\n- Solid\n\nPrice\n- $1000\n- $2000\n\nNeck\n- Crew Neck\n\nWRANGLER PIDA\n\nDiscover how that wrangler denim heritage goes deep, right back to the working cowboy, Inc. making jeans that are durable and comfortable enough for the wild west is a game for us.\n\nTRENDING",
+        "reason": "Search results for 'Rainbow sweater' are displayed with various filters and details."
+      }
+    ]
+  },
+  {
+    "step_id": 4,
+    "step_no": 4,
+    "description": "Apply the 'Turtle Neck' filter in the Neck filter section and validate that the results update accordingly.",
+    "status": "missing",
+    "matched_frames": [],
+    "matched_descriptions": [],
+    "reasons": [],
+    "frame_refs": []
+  }
+]

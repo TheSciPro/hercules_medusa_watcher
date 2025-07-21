@@ -1,0 +1,12 @@
+[
+  "Navigate to the Wrangler website at https://wrangler.in.",
+  "Validate that the homepage loads successfully and is ready for interaction.",
+  "Locate and click on the Search icon to activate the search bar.",
+  "Validate that the search bar is visible and ready for input.",
+  "Enter the text 'Rainbow sweater' into the search bar.",
+  "Validate that the search results are updated based on the entered text.",
+  "Locate the Neck filter section and select the 'Turtle Neck' filter.",
+  "Validate that the filter is applied and the results are updated accordingly.",
+  "Assert that only one product is displayed as the result, regardless of the product type.",
+  "Final assertion: Confirm that the displayed product(s) match the search and filter criteria."
+]

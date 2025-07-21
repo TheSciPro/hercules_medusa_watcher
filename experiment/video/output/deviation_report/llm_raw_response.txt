@@ -1,0 +1,16 @@
+```json
+{
+  "steps_aligned": [1, 2, 3],
+  "steps_with_deviation": [
+    {
+      "step_id": 4,
+      "step_description": "Apply the 'Turtle Neck' filter in the Neck filter section and validate that the results update accordingly.",
+      "video_evidence": "Missing - no frames show 'Turtle Neck' as available filter.",
+      "test_output_result": "FAILURE - 'Turtle Neck' not present, test terminated.",
+      "reason": "Mismatch between test plan expectation and actual site UI behavior."
+    }
+  ],
+  "overall_alignment_status": "Partially Matched",
+  "final_result": "Test correctly failed due to mismatch in expected filter availability. Agent behavior was aligned with actual UI evidence."
+}
+```
