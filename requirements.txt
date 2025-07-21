@@ -1,0 +1,11 @@
+#exp1
+pixeltable
+torch
+transformers
+scikit-learn
+#exp2
+opencv-python
+sentence-transformers
+azure-identity
+azure-ai-projects
+
